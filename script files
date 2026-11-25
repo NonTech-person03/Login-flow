@@ -1,0 +1,11 @@
+<div id="sr-headless-account"></div>  //use this for pahe HTML
+
+{% render 'fastrr-account-icon' %}
+
+<input type=“hidden” id="sellerDomain" value="YOUR-LIVE-DOMAIN.com">
+<script>
+window.srAccountPagePath = '/pages/user-account';
+window.accountPortalUrl = 'https://fastrr-login-account.pickrr.com/';
+</script>
+
+<script src="https://fastrr-boost-ui.pickrr.com/assets/js/channels/shiprocket-login.js"></script>
