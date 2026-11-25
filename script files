@@ -1,4 +1,4 @@
-<div id="sr-headless-account"></div>  //use this for page HTML
+<div id="sr-headless-account"></div>  //use this for page craetion in HTML under the pages tab in shopify
 
 {% render 'fastrr-account-icon' %}
 
