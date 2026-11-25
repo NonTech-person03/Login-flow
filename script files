@@ -1,4 +1,4 @@
-<div id="sr-headless-account"></div>  //use this for pahe HTML
+<div id="sr-headless-account"></div>  //use this for page HTML
 
 {% render 'fastrr-account-icon' %}
 
